@@ -2,6 +2,8 @@
 
 > ## MP07 UF01 A04U - Activitat 4
 
+ANTERIOR: [Teoria i configuració d'un servidor DNS a Win 2020 Server](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020)
+
 ## Objectiu
 
 Creació d'una nova zona de **```DNS```** en un servidor **Windows 2020 Server**.
