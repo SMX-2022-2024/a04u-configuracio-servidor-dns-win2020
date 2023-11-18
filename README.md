@@ -1,4 +1,4 @@
-# Creació d'una nova zona de DNS en un servidor Windows 2020 Server
+# Creació d'una nova zona de DNS a Win 2020 Server
 
 > ## MP07 UF01 A04U - Activitat 4
 
