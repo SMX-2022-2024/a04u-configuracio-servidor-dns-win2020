@@ -1,6 +1,12 @@
 # Creació d'una nova zona de DNS a Win 2020 Server
 
-> ## MP07 UF01 A04U - Activitat 4
+<td class="icon">
+    <div class="title">
+        <h3>
+            :information_source: MP07 UF01 <b>A04U - Activitat 4</b>
+        </h3>
+    </div>
+</td>
 
 ANTERIOR: [Teoria i configuració d'un servidor DNS a Win 2020 Server](https://github.com/SMX-2022-2024/a03u-teoria-i-configuracio-servidor-dns-win2020)
 
